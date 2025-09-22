@@ -457,7 +457,7 @@ Detaches the given node from the frame it is attached to.
 
 |void| **disconnect_nodes**\ (\ type\: :ref:`Type<enum_VisualShader_Type>`, from_node\: :ref:`int<class_int>`, from_port\: :ref:`int<class_int>`, to_node\: :ref:`int<class_int>`, to_port\: :ref:`int<class_int>`\ ) :ref:`🔗<class_VisualShader_method_disconnect_nodes>`
 
-Connects the specified nodes and ports.
+Disconnects the specified nodes and ports.
 
 .. rst-class:: classref-item-separator
 
